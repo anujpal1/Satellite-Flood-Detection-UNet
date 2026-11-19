@@ -85,7 +85,7 @@ The project uses **U-Net**, a fully convolutional network designed for biomedica
 
 **Anuj Pal**
 
-* LinkedIn: [Anadya Shekhar](https://www.linkedin.com/in/anujpal01/)
+* LinkedIn: [Anuj Pal](https://www.linkedin.com/in/anujpal01/)
 
 
 ---
