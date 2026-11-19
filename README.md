@@ -41,7 +41,7 @@ The model was trained on the **Flood Area Segmentation Dataset**.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/anadya-s/Satellite-Flood-Detection-UNet.git
+   git clone https://github.com/anujpal1/Satellite-Flood-Detection-UNet.git
    cd Satellite-Flood-Detection-UNet
 
 ```
